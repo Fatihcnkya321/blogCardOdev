@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    max-width: 1440px;
+    max-height: 960px;
+}
+body{
+  background-color:  #F4D04E;
+}
+.card{
+  width:  384px;
+  height: 522px;
+  top: 218.5px;
+  left: 528px;
+  /* padding: 24px 0px 0px 0px; */
+  gap: 24px;
+  border-radius: 20px;
+  border: 1px 0px 0px 0px;
+  box-shadow: 8px 8px 0px 0px;
+  background-color: #fff;
+  margin-inline: auto;
+  margin-block: 218px;
+}
+.img{
+  padding: 24px;
+}
+.learning{
+  width: 82px;
+  height: 29px;
+  background-color:#F4D04E;
+  border-radius: 4px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #111;
+  margin: 20px;
+  margin-top: 15px;
+}
+
+.learningYazi{
+  padding: 4px 12px 4px 12px;
+}
+.tarih{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+text-align: left;
+margin-left: 24px;
+}
+.baslik{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+text-align: left;
+margin: 17px;
+}
+.uzunYazi{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+margin-left: 24px;
+}
+.footer{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: 24px;
+  padding-top: 8px;
+}
